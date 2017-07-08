@@ -1,0 +1,101 @@
+SpawnFish: 5
+FishHeads:
+- ==: org.bukkit.inventory.ItemStack
+  type: SKULL_ITEM
+  damage: 3
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: Pufferfish
+    internal: H4sIAAAAAAAAAE2Py06DQBiFf40mSHwMtyTTAaaycOEt7ZAyWDoisGNgEMpMbbg00qfyESWuXJ7vfGdxTAATbnftqNRb91U1ShpwSUu4Ew6xEVpgC0niWk5ul5aoSmK5CDtieY9zQTwTzHl0lN3QyP4GjEF+D2MnexMALgy4jnM1SviRk4+ypEZl4qtiomTOfIdUSPfHJT3Ek3imhOq5Xz+SzeT9c90h/3BVavt1dtiOQsdoY0dKrqNFod9PKW8XjLfn8OXTDTnTGS+cQKeYYb9lvG5DXu/ZKtKMZ02Ktyg4P6lsxZo/R8czL2yGX+0ABxPDkQom36sS9ABgwBXLtZzvjVUlu6rpa4Bfsu5TjCsBAAA=
+    skull-owner: Pufferfish
+- ==: org.bukkit.inventory.ItemStack
+  type: SKULL_ITEM
+  damage: 3
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: Fish
+    internal: H4sIAAAAAAAAAE2O306DMBxGf5qZIPExvCVpmS1ysQvjZIMsRRh/Vu4YdGFbOxcGRvpcPqC99PLkOyf5bAAbnrbnUcrP/utwlMKC+7CFZ9erD7jxPIfSunFeiGidve/7DkYUuxihtn31bLBNdBX9cBS3R7AG8TOMvbjZAHBnwUNRy1HAr5giVO061O4i2UwhNZxtkYzD09ULL8W0fw9pqMy+fqObyf/nkqEuieTzqKsuybhXBdrMUynWKW5U/s2z3GVZ1DFVnSrF58zNCdeR5Co9cx2c4iwhLMs1L6tzXHJdrYy/5IStgs4wjpcNYcsEM/WBmA4k0+bdBfuHZLEAsGDGaiVgFhxvHcAfVVwIBykBAAA=
+    skull-owner: Fish
+- ==: org.bukkit.inventory.ItemStack
+  type: SKULL_ITEM
+  damage: 3
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: Fish
+    internal: H4sIAAAAAAAAAE2L3U6DMBhAP81MkPgY3pLAWkAuF/9WMjrZGKO946c4oJ3LBk76VD6iXHp5cs4xAUx42HaDlB/nr7qRwoBbUsFjhRwX54Fr5bgqLIyxsIKnOrBQiQu/tpHn54EJ5jSdxLlvxOUejF789MNZXEwAuDHgLs3lIOBXjKHNs4NdZaEsR+JNnGxtuSbtySfHdCyeiUfU5JcLbzUG/1q3z/euZCg88GM8FCq1V2gjxXLjlGr3zbTs+D7WVL1emYodrsiczslIVXyNEimpShVPSpe1JVonkcOST5cnBDFN20gvdPS+09FL5zC9wFSHHVdRU2dOAGDAjOZKwOytuRwA/gB4Zhl5JQEAAA==
+    skull-owner: Fish
+- ==: org.bukkit.inventory.ItemStack
+  type: SKULL_ITEM
+  damage: 3
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: Fish
+    internal: H4sIAAAAAAAAAE2LzW6CQBgAvzY2oaSP0SsJSMV48GDaNC4RLAqsu7cVvy0/CzUKyvJUfcRy7HEyMyaACS/7qlPq6/IjC4UGPJITvDoZSjG1peUtXGG9CU9awpVHa44Sp0JK9KaZCeY4nfHSFnh9BqPFvu0ueDUB4MGAp1SoDuEXtW/zQ26fDr7KNPFGjve22pLyPCdNqo/vxCP16Ncrb6MX/9pZK+hMMdfPeRN1xzq1N+5O4XrnZHVyY0NYBHHlhDQaWMkVKyPNy+TO42QI66BncaC3H2nOymzgNHJ57Bc8XjkBJfctJTqgSR8O331A2djyijTOQkbLJYABk1DUCJPP4poD/AFdwwbrJQEAAA==
+    skull-owner: Fish
+- ==: org.bukkit.inventory.ItemStack
+  type: SKULL_ITEM
+  damage: 3
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: Fish
+    internal: H4sIAAAAAAAAAE2LwW6CQBiE/zY2oaSP0SvJsgJmDx5MobhElqor6t4Alwos1ggY8bn6gKU99TSZ+b7RAXR4WVedUh+Xr7xQUoNHeoDXRGI7R/nBSIg9NiwrdQyC04mBiZmTjBCU4VQHfTid5aUtZPMMWitvbXeRjQ4ADxo8xYnqJHzLPkBid0SHXaCynjpD52ukIlqeJ/QU9+kbdWg98PnMWfTkn2u3ydZW+3FwFKdll9YxWoxXSs5XZlZvrvtyhkPfQ6xc2gwzJXiGQ+7dmSvKaLuqIj8uIn9vCn+DmPt5H7JnvLoxN+v/PB5avzvjohLcM4Xr2fRkknw5nQJoMGJJLWH0XjRHgB9bWj0LKQEAAA==
+    skull-owner: Fish
+- ==: org.bukkit.inventory.ItemStack
+  type: SKULL_ITEM
+  damage: 3
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: Red Fish
+    internal: H4sIAAAAAAAAAE2LzU6DQBgAP40mSHwID15J6PJ/8NCY1i4pi7RIYW/8bLOF3dpQMCxP5SPao8fJzOgAOjzvu1GIz/77eBJMg3vcwKtnLzw7QLXhMq8xbDdwDN/3kYHKsgqq0mvqAOmg36YL64cTuz6BNrBpGHt21QHgToPHrBQjg1+mQpPm3GzyUNQKuzdO96aIcXvx8DlT1Tt2sbz5zdLdquBf6wzlwRGFFXJ6TsZKZubW2gm22S1q+fVToKyNP6gkaY3IIbEiGXIiM07mZI7TyKbtco7QyiRyzaNUcNoWU5R2isxc0hQrglZW0dKOyLCjspjifRgcc/MNQIMHUkoG2o41L+vTlQP8ASY7kQYpAQAA
+    skull-owner: Red Fish
+- ==: org.bukkit.inventory.ItemStack
+  type: SKULL_ITEM
+  damage: 3
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: Fish
+    internal: H4sIAAAAAAAAAE2LzU6DQBhFP01NkPgYbklmQP4WXajVdJoCQkcoswNmKIUBmxYM9Ll8QHHn5t6c3HNVABUeds0g5cf5qzxKocAt4fDolDZ2LMPWLBdh7cmYI+euo4mcC1QU2BXcUUGdTydx7o/icg9KL8Z+OIuLCgA3CtzFmRwE/Ihpg9i+Qny/kcVErJnpDsmA1CebdPGUvxKLtPO+fra2k/vPNfssMWVqbCrWhUPexmhrRFKsI1y0n99+m5pBQnCwemn8VVz51wNilFcBTf+68XQysroxUj2uGS1QQN9GjxbXtA0nL/FGtuK1T1mV6lHtXQ+YJSEmHXbLcLkEUGDhZ62AxfvxUgH8AgTX4oUpAQAA
+    skull-owner: Fish
+- ==: org.bukkit.inventory.ItemStack
+  type: SKULL_ITEM
+  damage: 3
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: Fish
+    internal: H4sIAAAAAAAAAE2Ly06DQBhGf01NkPgYbkmGAaaycOG1HVIGS0cEdlwGoczUhksjfSofUeLK5XfO+XQAHW527SjlW/dVNVJocElLuM1tYiFkYgMJ4hh2ZpVGXpXEcBC28+UdznLi6qDPp6Pohkb016AN4nsYO9HrAHChwVWUyVHAj5g8lMY1KmNPFhMl8+Y7JAO6Py7pIZryJ0qomv36gWwm91/rDNmHIxPLq9PDdsxVhDZWKMU6NAv1fkp4azLenoPnTyfgTKW8sH2VYIa9lvG6DXi9Z6tQMZ42Cd4i//wo0xVr/hoVzbywGH6xfOxPDIfSnzy3itE9gAYLlikBi9emrwF+AYThw44lAQAA
+    skull-owner: Fish
+- ==: org.bukkit.inventory.ItemStack
+  type: SKULL_ITEM
+  damage: 3
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: Fish
+    internal: H4sIAAAAAAAAAE2L3U6DMBhAP81MkPgY3pJAWXFcGiesZO1kPzB6R0eRYpkLAzd4Jh/SXXp5cs4xAUx42nz1Wn+036XS0oB7UsBz7jlCzDxp4cLH1hT5niVQMbNKR+RFmQuB8dQE8zadZNspeX4Eo5PXrm/l2QSAOwMeklz3En7lENl8X9nFPtKHgXg33m5svSL16YUck0G8EY80N7949ZaD/6/FXZ5inblRxY9xL5rEXrprLRdr59Dsflj47q7mXLNwN7KUOKs0xjRNFKtjh4VJQ2uuGCIXVn+ObMyufM4V3QYNTWNEEXXZGF+yNLsyFFQUZarcOz6AAROWNxImgTpXAH9uWBiDIQEAAA==
+    skull-owner: Fish
+- ==: org.bukkit.inventory.ItemStack
+  type: SKULL_ITEM
+  damage: 3
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: Clownfish
+    internal: H4sIAAAAAAAAAE2MzW6CQBhFvzZtgqSP0S0JCINh0UWjSR3iDEVH1NnNwFB+BjQKFnyqPmLtrsubc841AUx42dS91p/nY15qZcAjzuB1Jl3Hy6Ww7EBIyxPSt2SAfCtVqS9QnkqVIRPMe3RS565UlwkYnRq6/qwuJgA8GPCcCN0r+FFjaPN9YWf7UKcj9u+bbWwd4eo0w20yyjn2cXPny3d/NQb/XNSJHdIHNyx4G/eySeyVu9ZquXbSZnslN14TFiPO1jVd1ChiGNEqHTnDLq2+EF1oTavYpbfaiXZkJLvtlDLs0MVhIFN8I1VWUkY8/nEY/j54GQb53n4DMOCJikbBZK6P321eXgqAX2VApmMqAQAA
+    skull-owner: Clownfish
+- ==: org.bukkit.inventory.ItemStack
+  type: SKULL_ITEM
+  damage: 3
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: Salmon Fish
+    internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtQmkfootuScaODGHRhak2DhGsMFyGHZdB0Rk1Co3Dc/UBy7LL853vmAAmvESHXsrvy6lppTDgntbwJt6npEKksuyaFNa0qV2rJAhZFSlrZ4IxKZ3CBHOMzuLSteL6BEYnbl1/EVcTAO4MeEwK2Qv4FdpDebZDdebJSlMyMouQXNP92aHHRJeflFA1+uWMrLT772t3RWpLjr1dftz0pUrQCodSLMNJpeIfnoaKDzHO5zPbn8d2zjZ4zaTi7KD5sJjkjE4DttBcBYqni5s/bgGrcK7igTOKeZoc/GE7dqEKhlj7+63NI89tMvQBYMBDUCgBz1Eh1en4+tVedwB/H3cspjABAAA=
+    skull-owner: Salmon Fish

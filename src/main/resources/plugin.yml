@@ -1,0 +1,13 @@
+name: Fish
+description: Catch big fish which swims around
+author: StarTux
+version: 0.1
+main: com.winthier.fish.FishPlugin
+depend: [ Custom ]
+commands:
+  fish:
+    description: fish
+    permission: fish.fish
+permissions:
+  fish.fish:
+    description: Use /fish
