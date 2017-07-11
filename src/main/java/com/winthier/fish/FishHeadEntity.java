@@ -166,5 +166,10 @@ public final class FishHeadEntity implements CustomEntity, TickableEntity {
             loc.setYaw(random.nextFloat() * 360.0f);
             entity.teleport(loc);
         }
+
+        Location getEyeLocation() {
+            double eyeHeight = entity.isSmall() ? 0.987 : 1.975;
+            return entity.getLocation().add(0, eyeHeight, 0);
+        }
     }
 }

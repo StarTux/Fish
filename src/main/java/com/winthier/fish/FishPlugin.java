@@ -80,8 +80,9 @@ public class FishPlugin extends JavaPlugin implements Listener {
                 EntityWatcher ew = CustomPlugin.getInstance().getEntityManager().getEntityWatcher(nearby);
                 if (ew != null && ew instanceof FishHeadEntity.Watcher) {
                     fishNearby += 1;
-                    if (nearby.getLocation().distance(event.getCaught().getLocation()) <= 1.0) {
-                        fishHead = (FishHeadEntity.Watcher)ew;
+                    FishHeadEntity.Watcher watcher = (FishHeadEntity.Watcher)ew;
+                    if (caughtLocation.distance(watcher.getEyeLocation()) <= 1.5) {
+                        fishHead = watcher;
                     }
                 }
             }
@@ -96,7 +97,7 @@ public class FishPlugin extends JavaPlugin implements Listener {
             fishHead.getEntity().getWorld().playSound(fishHead.getEntity().getLocation(), Sound.ENTITY_PLAYER_LEVELUP, 1.0f, 1.0f);
             fishHead.remove();
         }
-        int fishToSpawn = spawnFish * playersNearby - fishNearby;
+        int fishToSpawn = spawnFish - fishNearby;
         for (int i = 0; i < fishToSpawn; i += 1) {
             Set<Block> done = new HashSet<>();
             Block block = event.getCaught().getLocation().getBlock().getRelative(0, 1, 0);
